@@ -1,0 +1,21 @@
+# 作業用ディレクトリ（ユーザーが作成する場所）
+dbt_bootcamp/
+/jaffle_shop/
+
+# Python仮想環境
+.venv/
+venv/
+env/
+
+# dbt成果物
+target/
+dbt_packages/
+logs/
+
+# システムファイル
+.DS_Store
+.idea/
+.vscode/
+
+# 個人設定ファイル
+profiles.yml
